@@ -85,3 +85,8 @@ ALUs are the heart of any processing system, and are widely used in:
 @ Learned how to simulate and validate digital designs in Vivado.
 
 @ understood the core role of ALU in CPU architecture.
+
+# OUTPUTS & WAVEFORMS
+![Image](https://github.com/user-attachments/assets/b447a95d-95d8-4d84-bce1-df9dab8b5082)
+
+![Image](https://github.com/user-attachments/assets/fbf27771-aba7-4651-a013-f987834c50a3)
